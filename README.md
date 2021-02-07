@@ -23,7 +23,7 @@ In this challenge, four technical analysis deliverables are required:
 
 The script can be access via the link below:
 
-[Link to the Crypto Clustering.ipynb]()
+[Link to the Crypto Clustering.ipynb](https://github.com/jsaltmd/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
 
 **Deliverable 1:** Preprocessing the Data for PCA:
 
