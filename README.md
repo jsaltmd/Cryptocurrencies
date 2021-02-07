@@ -40,6 +40,7 @@ Summary: *Using Pandas, the dataset is preprocessed in order to perform PCA in D
 Summary: *Using Principal Component Analysis (PCA) algorithm, the dimensions of the X DataFrame is reduced to three principal components and place these dimensions in a new DataFrame.*
 
 **Three Principal Components DataFrame:**
+
 ![](./Photos/pic6.png)
 
 **Deliverable 3:** Clustering Cryptocurrencies Using K-means:
